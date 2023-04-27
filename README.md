@@ -1,9 +1,10 @@
 ### Hi there 👋
 ]
-## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
-
-
+## Frontend
+<code><img height="32" src="premiere.png" alt="c"/></code>
+<code><img height="32" src="photoshop.png" alt="c"/></code>
+<code><img height="32" src="aftereffects.png" alt="c"/></code>
+<code><img height="32" src="audition.png" alt="c"/></code>
 
 <!--
 **viniciusdutra314/viniciusdutra314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
