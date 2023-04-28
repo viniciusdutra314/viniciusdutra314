@@ -5,11 +5,11 @@
 ✉️ Contact: My university email dutravinisousa2@usp.br
 
 ## Languages spoken
-<code><img height="32" src="english.png" alt="c"/></code> **fluent**
+<code><img height="32" src="english.png" alt="c"/></code> Understands well, Reads well, Speaks well,  Writes well
 
-<code><img height="32" src="spain.png" alt="c"/></code>
+<code><img height="32" src="spain.png" alt="c"/></code> Understands well, Reads well,  Speaks Reasonably, Writes Reasonably
 
-<code><img height="32" src="french.png" alt="c"/></code>
+<code><img height="32" src="french.png" alt="c"/></code> Understands Reasonably,  Reads well, Speaks basically, Writes basically
 
 
 ## Frontend
