@@ -18,7 +18,6 @@
 <code><img height="32" src="aft.png" alt="c"/></code>
 <code><img height="32" src="audition.png" alt="c"/></code>
 <code><img height="32" src="manim.png" alt="c"/></code>
-<code><img height="32" src="cinema4d.png" alt="c"/></code>
 <code><img height="32" src="latex.jpg" alt="c"/></code>
 ## Backend
 <code><img height="32" src="python.png" alt="c"/></code>
