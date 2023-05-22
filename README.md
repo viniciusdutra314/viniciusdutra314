@@ -19,7 +19,7 @@
 <code><img height="32" src="python.png" alt="c"/></code>
 <code><img height="32" src="jupyter.png" alt="c"/></code>
 <code><img height="32" src="C.png" alt="c"/></code>
-<code><img height="32" src="C++.png" alt="c"/></code>
+<code><img height="32" src="c++.png" alt="c"/></code>
 
 ## Languages spoken
 <code><img height="32" src="english.png" alt="c"/></code> Understands well, Reads well, Speaks well,  Writes well
