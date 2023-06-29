@@ -22,6 +22,11 @@
 <code><img height="32" src="C.png" alt="c"/></code>
 <code><img height="32" src="c++.png" alt="c"/></code>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdutra314&layout=compact&theme=algolia&count_private=true)](https://github.com/viniciusdutra314)
+
+
+
+
 ## Languages spoken
 <code><img height="32" src="english.png" alt="c"/></code> Understands well, Reads well, Speaks well,  Writes well
 
