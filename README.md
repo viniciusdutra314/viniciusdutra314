@@ -12,20 +12,25 @@
 * Anki language-learning cards quickly on [CardMaker](https://github.com/viniciusdutra314/Anki-CardMaker)
 * Generating subtitles using Whisper Ai integrated with [Youtube](https://github.com/viniciusdutra314/Whisper-for-Youtube/) 
 * ExtendScript repository to speedup video editing [Adobe Scripts](https://github.com/viniciusdutra314/Adobe-Scripts)
-## Frontend 
-<img height="32" src="imagens/extendscript.png" alt="extendscript"/>
-<img height="32" src="imagens/manim.png" alt="manim"/>
-<img height="32" src="imagens/latex.jpg" alt="latex"/>
-<img height="32" src="imagens/premiere.png" alt="premiere"/>
-<img height="32" src="imagens/photoshop.png" alt="photoshop"/>
-<img height="32" src="imagens/aft.png" alt="after effects"/>
+## Frontend
+<div style="display: flex; align-items: center;">
+  <img height="32" src="imagens/extendscript.png" alt="extendscript" style="margin-right: 10px;"/>
+  <img height="32" src="imagens/manim.png" alt="manim" style="margin-right: 10px;"/>
+  <img height="32" src="imagens/latex.jpg" alt="latex" style="margin-right: 10px;"/>
+  <img height="32" src="imagens/premiere.png" alt="premiere" style="margin-right: 10px;"/>
+  <img height="32" src="imagens/photoshop.png" alt="photoshop" style="margin-right: 10px;"/>
+  <img height="32" src="imagens/aft.png" alt="after effects"/>
+</div>
 
 ## Backend
-<img height="32" src="imagens/python.png" alt="python"/>
-<img height="32" src="imagens/js.png" alt="javascript"/>
-<img height="32" src="imagens/linux.png" alt="linux"/>
-<img height="32" src="imagens/fortran_logo.png" alt="fortran"/>
-<img height="32" src="imagens/c++.png" alt="c++"/>
+<div style="display: flex; align-items: center;">
+  <img height="32" src="imagens/python.png" alt="python" style="margin-right: 10px;"/>
+  <img height="32" src="imagens/js.png" alt="javascript" style="margin-right: 10px;"/>
+  <img height="32" src="imagens/linux.png" alt="linux" style="margin-right: 10px;"/>
+  <img height="32" src="imagens/fortran_logo.png" alt="fortran" style="margin-right: 10px;"/>
+  <img height="32" src="imagens/c++.png" alt="c++"/>
+</div>
+
 
 
 ## Languages spoken
