@@ -1,25 +1,23 @@
 <div style="position: relative; left: 50%; transform: translateX(-50%);">
   <img width="500" src="imagens/banner_singularidade.png" alt="Your Image" />
 </div>
-📚  Second-year student in computational physics at USP São Carlos
+📚  Third-year student in computational physics at USP São Carlos
 
 🔭 Creator of the scientific youtube channel [Singularidade](https://www.youtube.com/singularidade) 
 
 ✉️ Contact: My university email dutravinisousa2@usp.br
 
 ## Main Projects
-* Added monte carlo error propagation in [LabIFSC](https://github.com/viniciusdutra314/LabIFSC)
-* Anki language-learning cards quickly on [CardMaker](https://github.com/viniciusdutra314/Anki-CardMaker)
+* Physics lab calculations  using [LabIFSC2](https://github.com/viniciusdutra314/LabIFSC2)
+* Anki language-learning cards quickly on [CardMaker](https://github.com/viniciusdutra314/CardMaker)
 * Generating subtitles using Whisper Ai integrated with [Youtube](https://github.com/viniciusdutra314/Whisper-for-Youtube/) 
-* ExtendScript repository to speedup video editing [Adobe Scripts](https://github.com/viniciusdutra314/Adobe-Scripts)
+
 ## Frontend
 <div style="display: flex; align-items: center;">
-  <img height="32" src="imagens/extendscript.png" alt="extendscript" style="margin-right: 10px;"/>
-  <img height="32" src="imagens/manim.png" alt="manim" style="margin-right: 10px;"/>
   <img height="32" src="imagens/latex.jpg" alt="latex" style="margin-right: 10px;"/>
-  <img height="32" src="imagens/premiere.png" alt="premiere" style="margin-right: 10px;"/>
-  <img height="32" src="imagens/photoshop.png" alt="photoshop" style="margin-right: 10px;"/>
-  <img height="32" src="imagens/aft.png" alt="after effects"/>
+  <img height="32" src="imagens/manim.png" alt="manim" style="margin-right: 10px;"/>
+    <img height="32" src="imagens/html.png" alt="html" style="margin-right: 10px;"/>
+
 </div>
 
 ## Backend
