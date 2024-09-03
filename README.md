@@ -7,41 +7,29 @@
 
 ✉️ Contact: My university email dutravinisousa2@usp.br
 
+
 ## Main Projects
-* Physics lab calculations  using [LabIFSC2](https://github.com/viniciusdutra314/LabIFSC2)
-* Anki language-learning cards quickly on [CardMaker](https://github.com/viniciusdutra314/Anki-CardMaker)
-* Generating subtitles using Faster Whisper integrated with [Youtube and Jellyfin](https://github.com/viniciusdutra314/faster-whisper-youtube-jellyfin) 
+* #### Physics lab calculations  using [LabIFSC2](https://github.com/viniciusdutra314/LabIFSC2)
+* #### Anki language-learning cards quickly on [CardMaker](https://github.com/viniciusdutra314/Anki-CardMaker)
+* #### Generating subtitles using Faster Whisper integrated with [Youtube and Jellyfin](https://github.com/viniciusdutra314/faster-whisper-youtube-jellyfin) 
 
-## Frontend
-<div style="display: flex; align-items: center;">
-  <img height="32" src="imagens/latex.jpg" alt="latex" style="margin-right: 10px;"/>
-  <img height="32" src="imagens/manim.png" alt="manim" style="margin-right: 10px;"/>
-    <img height="32" src="imagens/html.png" alt="html" style="margin-right: 10px;"/>
+## Programming skills
+| Frontend | Backend | Devops|
+| -------- | ------- | -----|
+|[![My Skills](https://skillicons.dev/icons?i=latex,md,html&theme=light&perline=2)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,fortran&perline=2)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,linux,docker,bash&perline=2)](https://skillicons.dev)
 
-</div>
-
-## Backend
-<div style="display: flex; align-items: center;">
-  <img height="32" src="imagens/python.png" alt="python" style="margin-right: 10px;"/>
-    <img height="32" src="imagens/c++.png" alt="c++" style="margin-right: 10px;" />
-  
-  <img height="32" src="imagens/linux.png" alt="linux" style="margin-right: 10px;"/>
-  <img height="32" src="imagens/fortran_logo.png" alt="fortran" style="margin-right: 10px;"/>
-  <img height="32" src="imagens/js.png" alt="javascript" style="margin-right: 10px;"/>
-</div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdutra314&layout=compact&exclude_repo=CanalSingularidade
+)](https://github.com/anuraghazra/github-readme-stats)
+> [!NOTE]
+> The tools in which I have the most technical knowledge are in the top-left of each cell
 
 
+## Language skills
+| Language | Reading | Listening | Writing | Speaking|
+| ---- | ---- | ----| ----| ----| 
+| <img height=32 src=imagens/brazilian.png alt="Brazil"> | ✅ | ✅ | ✅ | ✅
+|<img height="32" src="imagens/english.png" alt="english"/> | ✅ | ✅  | ✅ | ✅
+|<img height="32" src="imagens/italian_flag.png" alt="italian"/> |✅ |✅| ❌ | ❌ 
+|<img height="32" src="imagens/spain.png" alt="spanish"/> | ✅ | ✅ | ❌  | ❌ 
+| <img height="32" src="imagens/french.png" alt="french"/> | ✅ | ✅ |  ❌ |  ❌
 
-## Languages spoken
-<img height=32 src=imagens/brazilian.png alt="Brazil"> Portuguese is my mother tongue
-
-
-<img height="32" src="imagens/english.png" alt="english"/> Understands well, Reads well, Speaks well,  Writes well
-
-<img height="32" src="imagens/italian_flag.png" alt="italian"/> Understands reasonably, Reads reasonably, Speaks basically, Writes basically
-
-
-
-<img height="32" src="imagens/spain.png" alt="spanish"/> Understands well, Reads well,  Speaks Reasonably, Writes Reasonably
-
-<img height="32" src="imagens/french.png" alt="french"/> Understands Reasonably,  Reads well, Speaks basically, Writes basically
