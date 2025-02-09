@@ -13,6 +13,13 @@
 * #### Anki language-learning cards quickly on [CardMaker](https://github.com/viniciusdutra314/Anki-CardMaker)
 * #### Generating subtitles using Faster Whisper integrated with [Youtube and Jellyfin](https://github.com/viniciusdutra314/faster-whisper-youtube-jellyfin) 
 
+## My Configs
+I don't like reconfiguring things, so I wrote some auto-install scripts
+for my operating system and personal server, you can fork these repositories to adjust them to your needs.
+* ####  [MyUbuntu](https://github.com/viniciusdutra314/MyUbuntu)
+* #### [DutraServer](https://github.com/viniciusdutra314/DutraServer)
+
+
 ## Programming skills
 | Frontend | Backend | Devops|
 | -------- | ------- | -----|
