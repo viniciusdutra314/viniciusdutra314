@@ -23,7 +23,7 @@ for my operating system and personal server, you can fork these repositories to 
 ## Programming skills
 | Frontend | Backend | Devops|
 | -------- | ------- | -----|
-|[![My Skills](https://skillicons.dev/icons?i=latex,md,html&theme=light&perline=2)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=cpp,c,python,fortran&perline=2)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,docker,cmake,linux,bash&perline=3)](https://skillicons.dev)
+|[![My Skills](https://skillicons.dev/icons?i=latex,md,html&theme=light&perline=2)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,fortran,haskell&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,docker,cmake,linux,bash&perline=3)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdutra314&layout=compact&exclude_repo=CanalSingularidade
 )](https://github.com/anuraghazra/github-readme-stats)
