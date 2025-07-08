@@ -13,24 +13,28 @@
 * #### Anki language-learning cards quickly on [CardMaker](https://github.com/viniciusdutra314/Anki-CardMaker)
 * #### Generating subtitles using Faster Whisper integrated with [Youtube and Jellyfin](https://github.com/viniciusdutra314/faster-whisper-youtube-jellyfin) 
 
+
+## Programming skills
+| Frontend | Backend | Devops|
+| -------- | ------- | -----|
+|[![My Skills](https://skillicons.dev/icons?i=latex,md,html&theme=light&perline=2)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,fortran,haskell,postgres&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,docker,cmake,linux,bash,nix&perline=3)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdutra314&layout=pie&exclude_repo=CanalSingularidade&langs_count=10
+)](https://github.com/anuraghazra/github-readme-stats)
+> [!NOTE]
+> The tools in which I have the most technical knowledge are in the top-left of each cell
+
 ## My Configs
 I don't like reconfiguring things, so I wrote some auto-install scripts
 for my operating system and personal server, you can fork these repositories to adjust them to your needs.
 * ####  [MyPC](https://github.com/viniciusdutra314/MyPC)
 * #### [DutraServer](https://github.com/viniciusdutra314/DutraServer)
 
+Here is a quick summary of my current setup
 
-## Programming skills
-| Frontend | Backend | Devops|
-| -------- | ------- | -----|
-|[![My Skills](https://skillicons.dev/icons?i=latex,md,html&theme=light&perline=2)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,fortran,haskell,postgres&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,docker,cmake,linux,bash&perline=3)](https://skillicons.dev)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdutra314&layout=compact&exclude_repo=CanalSingularidade
-)](https://github.com/anuraghazra/github-readme-stats)
-> [!NOTE]
-> The tools in which I have the most technical knowledge are in the top-left of each cell
-
-
+| OSes | IDEs | 
+| -------- | ------- |
+|[![My Skills](https://skillicons.dev/icons?i=nix,windows&theme=light&perline=2)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=vscode,clion&theme=light&perline=2)](https://skillicons.dev)
 ## Language skills
 | Language | Reading | Listening | Writing | Speaking|
 | ---- | ---- | ----| ----| ----| 
