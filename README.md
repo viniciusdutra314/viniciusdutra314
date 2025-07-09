@@ -17,7 +17,7 @@
 ## Programming skills
 | Frontend | Backend | Devops|
 | -------- | ------- | -----|
-|[![My Skills](https://skillicons.dev/icons?i=latex,md,html&theme=light&perline=2)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,fortran,haskell,postgres&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,docker,cmake,linux,bash,nix&perline=3)](https://skillicons.dev)
+|[![My Skills](https://skillicons.dev/icons?i=latex&theme=light&perline=1)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,fortran,haskell,postgres&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,docker,cmake,linux,bash,nix&perline=3)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdutra314&layout=pie&exclude_repo=CanalSingularidade&langs_count=10
 )](https://github.com/anuraghazra/github-readme-stats)
@@ -26,9 +26,8 @@
 
 ## My Configs
 I don't like reconfiguring things, so I wrote some auto-install scripts
-for my operating system and personal server, you can fork these repositories to adjust them to your needs.
-* ####  [MyPC](https://github.com/viniciusdutra314/MyPC)
-* #### [DutraServer](https://github.com/viniciusdutra314/DutraServer)
+for my operating system and personal server
+* ####  [MyConfigFiles](https://github.com/viniciusdutra314/MyConfigFiles)
 
 Here is a quick summary of my current setup
 
