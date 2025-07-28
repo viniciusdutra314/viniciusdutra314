@@ -19,7 +19,7 @@
 | -------- | ------- | -----|
 |[![My Skills](https://skillicons.dev/icons?i=latex&theme=light&perline=1)](https://skillicons.dev) |[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,rust,fortran,haskell&perline=3)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=git,docker,cmake,linux,bash,nix&perline=3)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdutra314&layout=pie&exclude_repo=CanalSingularidade&langs_count=10
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusdutra314&layout=pie&exclude_repo=CanalSingularidade&langs_count=10&hide=html,jupyter%20notebook
 )](https://github.com/anuraghazra/github-readme-stats)
 > [!NOTE]
 > The tools in which I have the most technical knowledge are in the top-left of each cell
