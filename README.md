@@ -11,7 +11,10 @@
 ## Main Projects
 * #### Physics lab calculations  using [LabIFSC2](https://github.com/viniciusdutra314/LabIFSC2)
 * #### Anki language-learning cards quickly on [CardMaker](https://github.com/viniciusdutra314/Anki-CardMaker)
-* #### Generating subtitles using Faster Whisper integrated with [Youtube and Jellyfin](https://github.com/viniciusdutra314/faster-whisper-youtube-jellyfin) 
+* #### Generating subtitles using Faster Whisper integrated with [Youtube and Jellyfin](https://github.com/viniciusdutra314/faster-whisper-youtube-jellyfin)
+
+## Main Contributions
+* #### bugfix in the rust library petgraph https://github.com/petgraph/petgraph/pull/951
 
 
 ## Programming skills
