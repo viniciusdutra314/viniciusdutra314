@@ -9,7 +9,7 @@
 
 ✉️ Contact: My university email dutravinisousa2@usp.br
 
-<div align="right">
+<div align="left">
     <span>🎓 My Lattes CV (the Brazilian national database for researchers):</span>
     <a href="https://lattes.cnpq.br/8574210905633869" target="_blank">
         <img src="imagens/lattes.png" width="128" height="28" style="vertical-align:middle; margin-left:10px;">
