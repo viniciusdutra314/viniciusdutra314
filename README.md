@@ -1,11 +1,21 @@
 <div style="position: relative; left: 50%; transform: translateX(-50%);">
   <img width="500" src="imagens/banner_singularidade.png" alt="Your Image" />
 </div>
+
+
 📚  Fourth-year student in computational physics at USP São Carlos
 
 🔭 Creator of the scientific youtube channel [Singularidade](https://www.youtube.com/singularidade) 
 
 ✉️ Contact: My university email dutravinisousa2@usp.br
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+    🎓 My Lattes CV (the Brazilian national database for researchers):
+    <a href=" https://lattes.cnpq.br/8574210905633869" target="_blank" style="margin: 5px;">
+        <img src="imagens/lattes.png" width="128" height="28">
+        </img>
+    </a>
+</div>
 
 
 ## Main Projects
