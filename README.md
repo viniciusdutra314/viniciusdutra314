@@ -18,7 +18,7 @@
 
 
 ## Main Projects
-* #### ([LabIFSC2](https://github.com/viniciusdutra314/LabIFSC2)) Physics lab calculations in Python
+* #### ([LabIFSC2](https://github.com/viniciusdutra314/LabIFSC2)) Physics lab calculations in Python (```pip install labifsc2```)
 * #### ([GraphTraffic-rs](https://github.com/viniciusdutra314/GraphTraffic-rs),[undergraduate-thesis](https://github.com/viniciusdutra314/undergraduate-thesis)) Final Graduation Project (TCC) and Undergraduate Research (IC) on traffic optimization in complex networks 
 * #### [Image processing](https://github.com/viniciusdutra314/MultiStack-Image-Processing) in multiple programming languages 
 * #### A Rust-based [MIDI synthesizer](https://github.com/viniciusdutra314/midi-synth-lab)
