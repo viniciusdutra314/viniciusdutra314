@@ -19,11 +19,9 @@
 
 ## Main Projects
 * #### ([LabIFSC2](https://github.com/viniciusdutra314/LabIFSC2)) Physics lab calculations in Python (```pip install labifsc2```)
-* ##### ([HGraphs](https://github.com/viniciusdutra314/HGraphs.jl)) Rust library for generic hypergraph data structures and algorithms (```cargo add hgraphs```)
+* #### ([HGraphs](https://github.com/viniciusdutra314/HGraphs.jl)) Rust library for generic hypergraph data structures and algorithms (```cargo add hgraphs```)
 * #### ([GraphTraffic-rs](https://github.com/viniciusdutra314/GraphTraffic-rs),[undergraduate-thesis](https://github.com/viniciusdutra314/undergraduate-thesis)) Final Graduation Project (TCC) and Undergraduate Research (IC) on traffic optimization in complex networks 
-* #### [Image processing](https://github.com/viniciusdutra314/MultiStack-Image-Processing) in multiple programming languages 
-* #### A Rust-based [MIDI synthesizer](https://github.com/viniciusdutra314/midi-synth-lab)
-
+* #### [Image processing](https://github.com/viniciusdutra314/MultiStack-Image-Processing) in multiple programming languages
 ## Main Contributions
 * #### bugfix and performance improvement in the rust library petgraph [#951](https://github.com/petgraph/petgraph/pull/951) and [#984](https://github.com/petgraph/petgraph/pull/984)
 * #### added (.pgm,.ppm,.pbm) image support for the [Zed code editor](https://github.com/zed-industries/zed/pull/54256)
