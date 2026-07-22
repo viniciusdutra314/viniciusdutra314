@@ -24,7 +24,8 @@
 * #### [AnkiPolyglot](https://viniciusdutra314.github.io/AnkiPolyglot/) language learning cards via WebAssembly ([genanki-wasm](https://github.com/viniciusdutra314/genanki-wasm))
 * #### [Image processing](https://github.com/viniciusdutra314/MultiStack-Image-Processing) in multiple programming languages
 
-
+## Recreational Programming 
+* #### An [assembler](https://github.com/viniciusdutra314/Toy-AArch64-Assembler) for a subset of AArch64 (.s -> .o/.elf) made from scratch in Rust
 ## Main Contributions
 * #### bugfix and performance improvement in the rust library petgraph [#951](https://github.com/petgraph/petgraph/pull/951) and [#984](https://github.com/petgraph/petgraph/pull/984)
 * #### added (.pgm,.ppm,.pbm) image support for the [Zed code editor](https://github.com/zed-industries/zed/pull/54256)
