@@ -40,7 +40,7 @@
 
 ## Self-host
 I love to self host applications, these are my configs to setup my server
-* ####  [dutra-server](https://github.com/viniciusdutra314/dutra-server)
+* ####  [dutra-server](https://github.com/viniciusdutra314/dutraserver)
 ## Language skills
 | Language | Reading | Listening | Writing | Speaking|
 | ---- | ---- | ----| ----| ----| 
